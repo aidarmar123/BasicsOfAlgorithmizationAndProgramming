@@ -10,7 +10,7 @@ namespace Razvilka2
     {
         static void Main(string[] args)
         {
-            Console.Write("Input number");
+            Console.Write("Input number ");
             var number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Number is " + (number % 2 == 0 ? "even" : "odd"));
         }
