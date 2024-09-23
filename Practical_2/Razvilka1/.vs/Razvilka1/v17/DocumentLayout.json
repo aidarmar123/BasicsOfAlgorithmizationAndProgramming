@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_2\\Razvilka1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC79D10B-24D4-40C9-BF2E-B6A219963DFE}|..\\Razvilka2\\Razvilka2.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_2\\razvilka2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56C3B022-2287-447F-B799-715522E4B350}|Razvilka1.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_2\\razvilka1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56C3B022-2287-447F-B799-715522E4B350}|Razvilka1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_2\\Razvilka2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Razvilka2\\Program.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_2\\Razvilka2\\Program.cs",
+              "RelativeToolTip": "..\\Razvilka2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:05:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_2\\Razvilka1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
