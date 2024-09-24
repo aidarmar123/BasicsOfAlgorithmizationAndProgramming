@@ -25,12 +25,15 @@ namespace Razvilka3
             Console.Write("Input lenght Brick ");
             double lenghtBrick = Convert.ToDouble(Console.ReadLine());
 
-            var squareWindow = widthWindow * heightWindow;
+            var diagonalWindow = Diagonal(widthWindow, heightWindow);
 
+            var diagonalBrick_1 = Diagonal(widthBrick, heightBrick);
+            var diagonalBrick_2 = Diagonal(widthBrick, lenghtBrick);
+            var diagonalBrick_3 = Diagonal(lenghtBrick, heightBrick);
 
-            if (squareWindow > widthBrick * heightBrick ||
-                squareWindow > widthBrick * lenghtBrick ||
-                squareWindow > lenghtBrick * heightBrick)
+            if (diagonalWindow > diagonalBrick_1 ||
+                diagonalWindow > diagonalBrick_2 ||
+                diagonalWindow > diagonalBrick_3)
             {
                 Console.WriteLine("Yes");
             }
@@ -39,6 +42,11 @@ namespace Razvilka3
                 Console.WriteLine("NO");
             }
 
+        }
+
+        private static double Diagonal(double width, double height)
+        {
+            return Math.Pow(Math.Pow(width, 2) + Math.Pow(height, 2), 1 / 2);
         }
     }
 }

@@ -4,10 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{03D171B2-E7F8-4CE3-B893-5A2DE01BB2F8}|..\\Razvilka4\\Razvilka4.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_2\\razvilka4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{679B7D33-7083-4689-9987-0E2BFF654A12}|Razvilka3.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_2\\razvilka3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{679B7D33-7083-4689-9987-0E2BFF654A12}|Razvilka3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_2\\Razvilka3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_2\\Razvilka3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwCcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:06:03.009Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
