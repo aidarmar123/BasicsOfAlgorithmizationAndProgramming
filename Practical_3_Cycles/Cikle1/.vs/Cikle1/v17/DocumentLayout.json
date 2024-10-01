@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikle1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B64D07A-55BD-4619-87E7-440FFEB3EA1B}|..\\Cikl4\\Cikl4.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_3_cycles\\cikl4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BDA8CA1-40A0-43D5-8567-0BEB1F0699BB}|..\\Cikle3\\Cikle3.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_3_cycles\\cikle3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5990E789-564D-40BE-8ACA-C0D80A150984}|..\\Cikle2\\Cikle2.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_3_cycles\\cikle2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B489E00D-9A28-497D-AEEE-D7D37EBB420C}|Cikle1.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_3_cycles\\cikle1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B489E00D-9A28-497D-AEEE-D7D37EBB420C}|Cikle1.csproj|C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikle1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B489E00D-9A28-497D-AEEE-D7D37EBB420C}|Cikle1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,18 +29,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikl4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Cikl4\\Program.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikl4\\Program.cs",
+              "RelativeToolTip": "..\\Cikl4\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:50:23.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikle3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Cikle3\\Program.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikle3\\Program.cs",
               "RelativeToolTip": "..\\Cikle3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T09:44:45.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikle2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Cikle2\\Program.cs",
@@ -49,12 +69,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_3_Cycles\\Cikle1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
