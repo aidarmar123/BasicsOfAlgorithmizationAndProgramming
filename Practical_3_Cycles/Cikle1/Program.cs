@@ -15,7 +15,7 @@ namespace Cikle1
             for (int i = 1; i != sum/5; i++)
             {
                 sum += i;
-                answer = i + 1;
+                answer = i+1;
             }
             Console.WriteLine($"Answer is {answer}");
         }

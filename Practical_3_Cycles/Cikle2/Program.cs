@@ -11,7 +11,6 @@ namespace Cikle2
         static void Main(string[] args)
         {
             Console.WriteLine(" °C | °F ");
-            Console.WriteLine("__________");
             for (int i = -50; i <=50; i++)
             {
                 Console.WriteLine($"{i} | {(double)9/5*i +32}");

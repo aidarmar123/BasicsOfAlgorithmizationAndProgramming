@@ -5,3 +5,11 @@ C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_2\R
 C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_2\Razvilka8\obj\Debug\Razvilka8.csproj.CoreCompileInputs.cache
 C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_2\Razvilka8\obj\Debug\Razvilka8.exe
 C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_2\Razvilka8\obj\Debug\Razvilka8.pdb
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\bin\Debug\Razvilka8.exe.config
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\bin\Debug\Razvilka8.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\bin\Debug\Razvilka8.pdb
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\obj\Debug\Razvilka8.csproj.AssemblyReference.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\obj\Debug\Razvilka8.csproj.SuggestedBindingRedirects.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\obj\Debug\Razvilka8.csproj.CoreCompileInputs.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\obj\Debug\Razvilka8.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_2_CondatinalOperators\Razvilka8\obj\Debug\Razvilka8.pdb

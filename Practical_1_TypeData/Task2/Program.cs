@@ -11,8 +11,10 @@ namespace Task2
         static void Main(string[] args)
         {
             int n = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i < 3; i++)
-                n *= n;
+            n *= n;
+            n *= n;
+            n *= n;
+
             Console.WriteLine(n);
             
         }

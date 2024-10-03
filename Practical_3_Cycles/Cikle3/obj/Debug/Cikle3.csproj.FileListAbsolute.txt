@@ -1,0 +1,8 @@
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\bin\Debug\Cikle3.exe.config
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\bin\Debug\Cikle3.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\bin\Debug\Cikle3.pdb
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\obj\Debug\Cikle3.csproj.AssemblyReference.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\obj\Debug\Cikle3.csproj.SuggestedBindingRedirects.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\obj\Debug\Cikle3.csproj.CoreCompileInputs.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\obj\Debug\Cikle3.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle3\obj\Debug\Cikle3.pdb

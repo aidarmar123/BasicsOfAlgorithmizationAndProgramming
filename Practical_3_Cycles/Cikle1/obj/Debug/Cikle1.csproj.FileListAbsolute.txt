@@ -5,3 +5,11 @@ C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_C
 C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.csproj.CoreCompileInputs.cache
 C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.exe
 C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.pdb
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\bin\Debug\Cikle1.exe.config
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\bin\Debug\Cikle1.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\bin\Debug\Cikle1.pdb
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.csproj.AssemblyReference.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.csproj.SuggestedBindingRedirects.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.csproj.CoreCompileInputs.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikle1\obj\Debug\Cikle1.pdb

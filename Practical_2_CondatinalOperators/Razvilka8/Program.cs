@@ -15,31 +15,31 @@ namespace Razvilka8
             var number = Convert.ToUInt32(Console.ReadLine());
             var answer = "";
 
-            switch (number)
-            {
-                case 1:
-                    answer = "Monday";
-                    break;
-                case 2:
-                    answer = "Thuesday";
-                    break;
-                case 3:
-                    answer = "Wednesday";
-                    break;
-                case 4:
-                    answer = "Thusrday";
-                    break;
-                case 5:
-                    answer = "Friday";
-                    break;
-                case 6:
-                    answer = "Saturday";
-                    break;
-                case 7:
-                    answer = "Sunday";
-                    break;
+            //switch (number)
+            //{
+            //    case 1:
+            //        answer = "Monday";
+            //        break;
+            //    case 2:
+            //        answer = "Thuesday";
+            //        break;
+            //    case 3:
+            //        answer = "Wednesday";
+            //        break;
+            //    case 4:
+            //        answer = "Thusrday";
+            //        break;
+            //    case 5:
+            //        answer = "Friday";
+            //        break;
+            //    case 6:
+            //        answer = "Saturday";
+            //        break;
+            //    case 7:
+            //        answer = "Sunday";
+            //        break;
 
-            }
+            //}
 
             Console.WriteLine(answer);
             
