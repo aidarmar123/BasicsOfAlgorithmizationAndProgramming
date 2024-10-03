@@ -1,0 +1,8 @@
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\bin\Debug\Cikl24.exe.config
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\bin\Debug\Cikl24.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\bin\Debug\Cikl24.pdb
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\obj\Debug\Cikl24.csproj.AssemblyReference.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\obj\Debug\Cikl24.csproj.SuggestedBindingRedirects.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\obj\Debug\Cikl24.csproj.CoreCompileInputs.cache
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\obj\Debug\Cikl24.exe
+C:\Users\202315\Desktop\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\Cikl24\obj\Debug\Cikl24.pdb
