@@ -1,0 +1,7 @@
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\CiklPar2\bin\Debug\CiklPar2.exe.config
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\CiklPar2\bin\Debug\CiklPar2.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\CiklPar2\bin\Debug\CiklPar2.pdb
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\CiklPar2\obj\Debug\CiklPar2.csproj.AssemblyReference.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\CiklPar2\obj\Debug\CiklPar2.csproj.CoreCompileInputs.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\CiklPar2\obj\Debug\CiklPar2.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_3_Cycles\CiklPar2\obj\Debug\CiklPar2.pdb

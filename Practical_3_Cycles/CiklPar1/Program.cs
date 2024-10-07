@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CiklPar1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Input n: ");
+            var n = Convert.ToInt32(Console.ReadLine());
+
+
+            double y = 2 * n + 1;
+            for(int i = 2 * n + 1; i>=1; i -=2)
+            {
+                y = Math.Sqrt(i)+Math.Sqrt(y);
+            }
+            Console.WriteLine(y);
+        }
+    }
+}
