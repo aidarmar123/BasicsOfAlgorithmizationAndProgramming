@@ -14,10 +14,10 @@ namespace CiklPar1
             var n = Convert.ToInt32(Console.ReadLine());
 
 
-            double y = 2 * n + 1;
-            for(int i = 2 * n + 1; i>=1; i -=2)
+            double y = 0;
+            for(int i = 2 * n + 1; i>=0; i -=2)
             {
-                y = Math.Sqrt(i)+Math.Sqrt(y);
+                y = Math.Sqrt(i+y);
             }
             Console.WriteLine(y);
         }
