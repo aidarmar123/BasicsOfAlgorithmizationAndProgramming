@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F2D95A3-9FC2-4723-9250-386927411D58}|..\\Odnom4\\Odnom4.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\odnom4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A624A468-867E-45B8-B722-DAD45F5635C8}|..\\Odnom2\\Odnom2.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\odnom2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E99576F-C999-4B9B-8FFE-507066251A3A}|Odnom1.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\odnom1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E99576F-C999-4B9B-8FFE-507066251A3A}|Odnom1.csproj|C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E99576F-C999-4B9B-8FFE-507066251A3A}|Odnom1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,18 +26,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Odnom4\\Program.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom4\\Program.cs*",
+              "RelativeToolTip": "..\\Odnom4\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:16:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Odnom2\\Program.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom2\\Program.cs",
               "RelativeToolTip": "..\\Odnom2\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:57:25.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T10:47:00.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T10:47:00.827Z"
             }
           ]
         }
