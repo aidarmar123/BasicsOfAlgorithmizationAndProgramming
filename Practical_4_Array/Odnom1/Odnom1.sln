@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odnom4", "..\Odnom4\Odnom4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odnom3", "..\Odnom3\Odnom3.csproj", "{6517D559-9531-420B-8A4B-04DB6AB7ADB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odnom5", "..\Odnom5\Odnom5.csproj", "{69F73BCD-18B3-4691-88C2-615382A38803}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6517D559-9531-420B-8A4B-04DB6AB7ADB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6517D559-9531-420B-8A4B-04DB6AB7ADB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6517D559-9531-420B-8A4B-04DB6AB7ADB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F73BCD-18B3-4691-88C2-615382A38803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F73BCD-18B3-4691-88C2-615382A38803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F73BCD-18B3-4691-88C2-615382A38803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F73BCD-18B3-4691-88C2-615382A38803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

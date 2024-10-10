@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Odnom3
+namespace Odnom5
 {
     internal class Program
     {
@@ -14,27 +14,16 @@ namespace Odnom3
             var r = new Random();
             for (int i = 0; i < arrayNumber.Length; i++)
             {
-                arrayNumber[i] = r.Next(-10,10);
+                arrayNumber[i] = r.Next(-10, 10);
             }
             Console.WriteLine(string.Join(" ", arrayNumber));
-            var sum = 0;
-            bool firstEven = false;
+
             for (int i = 0; i < arrayNumber.Length; i++)
             {
-                if (arrayNumber[i] > 0 && !firstEven)
-                {
-                    firstEven = true;
-                    continue;
-                }
-                else if (arrayNumber[i] > 0 && firstEven)
-                    break;
-
-
-                if (firstEven)
-                    sum += arrayNumber[i];
-
+                if (arrayNumber[i] < 0)
+                    arrayNumber[i] = arrayNumber[i] * arrayNumber[i];
             }
-            Console.WriteLine(sum);
+            Console.WriteLine(string.Join(" ", arrayNumber.Reverse()));
         }
     }
 }

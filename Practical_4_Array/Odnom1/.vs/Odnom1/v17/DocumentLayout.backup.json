@@ -3,7 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69F73BCD-18B3-4691-88C2-615382A38803}|..\\Odnom5\\Odnom5.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\odnom5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6517D559-9531-420B-8A4B-04DB6AB7ADB0}|..\\Odnom3\\Odnom3.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\odnom3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2D95A3-9FC2-4723-9250-386927411D58}|..\\Odnom4\\Odnom4.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\odnom4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A624A468-867E-45B8-B722-DAD45F5635C8}|..\\Odnom2\\Odnom2.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\odnom2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,7 +26,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Odnom4\\Program.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom4\\Program.cs",
+              "RelativeToolTip": "..\\Odnom4\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:13:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Odnom5\\Program.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom5\\Program.cs*",
+              "RelativeToolTip": "..\\Odnom5\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:12:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Odnom2\\Program.cs",
@@ -28,18 +60,17 @@
               "RelativeToolTip": "..\\Odnom2\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T11:45:03.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T11:45:03.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Odnom3\\Program.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\Odnom3\\Program.cs",
               "RelativeToolTip": "..\\Odnom3\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T11:44:37.641Z",
               "EditorCaption": ""
