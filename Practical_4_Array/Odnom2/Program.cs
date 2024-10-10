@@ -15,18 +15,13 @@ namespace Odnom2
             for (int i = 0; i < arrayNumber.Length; i++)
             {
                 arrayNumber[i] = r.Next(10);
+                
             }
             Console.WriteLine(string.Join(" ", arrayNumber));
 
-            var arrayEven = new List<int>();
-            var arrayOdd = new List<int>();
-            foreach (var item in arrayNumber)
-            {
-                if (item % 2 == 0)
-                    arrayEven.Add(item);
-                else
-                    arrayOdd.Add(item);
-            }
+            int[] arrayEven = arrayNumber.Where(x=>x%2==0).ToArray();
+            int[] arrayOdd = arrayNumber.Where(x => x % 2 != 0).ToArray();
+
             Console.WriteLine(string.Join(" ", arrayEven));
             Console.WriteLine(string.Join(" ", arrayOdd));
 
