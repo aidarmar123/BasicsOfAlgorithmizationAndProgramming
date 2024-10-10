@@ -10,18 +10,20 @@ namespace Odnom1
     {
         static void Main(string[] args)
         {
-            var arrauNumber = new int[10];
+            var arrayNumber = new int[10];
             var r = new Random();
-            for (int i = 0; i < arrauNumber.Length; i++)
+            for (int i = 0; i < arrayNumber.Length; i++)
             {
-                arrauNumber[i] = r.Next(10);
+                arrayNumber[i] = r.Next(10);
             }
             int sum = 0;
-            for (int i = 0; i < arrauNumber.Length; i++)
+            for (int i = 0; i < arrayNumber.Length; i++)
             {
                 if (i % 2 == 0)
-                    sum += arrauNumber[i]; 
+                    sum += arrayNumber[i]; 
             }
+            Console.WriteLine(String.Join(" ", arrayNumber));
+            Console.WriteLine(sum);
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\Odnom2\bin\Debug\Odnom2.exe.config
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\Odnom2\bin\Debug\Odnom2.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\Odnom2\bin\Debug\Odnom2.pdb
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\Odnom2\obj\Debug\Odnom2.csproj.AssemblyReference.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\Odnom2\obj\Debug\Odnom2.csproj.CoreCompileInputs.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\Odnom2\obj\Debug\Odnom2.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\Odnom2\obj\Debug\Odnom2.pdb
