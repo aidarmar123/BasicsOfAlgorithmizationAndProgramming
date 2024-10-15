@@ -1,0 +1,7 @@
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\AdditonalTask\bin\Debug\AdditonalTask.exe.config
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\AdditonalTask\bin\Debug\AdditonalTask.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\AdditonalTask\bin\Debug\AdditonalTask.pdb
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\AdditonalTask\obj\Debug\AdditonalTask.csproj.AssemblyReference.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\AdditonalTask\obj\Debug\AdditonalTask.csproj.CoreCompileInputs.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\AdditonalTask\obj\Debug\AdditonalTask.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\AdditonalTask\obj\Debug\AdditonalTask.pdb
