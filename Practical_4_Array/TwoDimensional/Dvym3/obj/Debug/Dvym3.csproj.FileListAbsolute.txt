@@ -1,0 +1,7 @@
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\TwoDimensional\Dvym3\bin\Debug\Dvym3.exe.config
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\TwoDimensional\Dvym3\bin\Debug\Dvym3.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\TwoDimensional\Dvym3\bin\Debug\Dvym3.pdb
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\TwoDimensional\Dvym3\obj\Debug\Dvym3.csproj.AssemblyReference.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\TwoDimensional\Dvym3\obj\Debug\Dvym3.csproj.CoreCompileInputs.cache
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\TwoDimensional\Dvym3\obj\Debug\Dvym3.exe
+C:\Users\Aidar\source\repos\BasicsOfAlgorithmizationAndProgramming\Practical_4_Array\TwoDimensional\Dvym3\obj\Debug\Dvym3.pdb

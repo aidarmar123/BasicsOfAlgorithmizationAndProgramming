@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E29FCBB2-A43B-40DB-B869-894BB5BF2169}|..\\Dvym3\\Dvym3.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\twodimensional\\dvym3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF8581A0-4E11-4652-9324-E232CB57CF84}|..\\Dvym2\\Dvym2.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\twodimensional\\dvym2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF8581A0-4E11-4652-9324-E232CB57CF84}|..\\Dvym2\\Dvym2.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\twodimensional\\dvym2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05D8CDF1-0E3E-42B1-8C89-10D5B1C6F55F}|Dvym1.csproj|c:\\users\\aidar\\source\\repos\\basicsofalgorithmizationandprogramming\\practical_4_array\\twodimensional\\dvym1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05D8CDF1-0E3E-42B1-8C89-10D5B1C6F55F}|Dvym1.csproj|C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05D8CDF1-0E3E-42B1-8C89-10D5B1C6F55F}|Dvym1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +23,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Dvym3\\Program.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym3\\Program.cs",
+              "RelativeToolTip": "..\\Dvym3\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:30:50.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym2\\App.config",
               "RelativeDocumentMoniker": "..\\Dvym2\\App.config",
@@ -32,25 +48,24 @@
               "RelativeToolTip": "..\\Dvym2\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-16T10:26:24.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T10:26:24.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Dvym2\\Program.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym2\\Program.cs",
               "RelativeToolTip": "..\\Dvym2\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwDEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T09:42:30.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\BasicsOfAlgorithmizationAndProgramming\\Practical_4_Array\\TwoDimensional\\Dvym1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -58,8 +73,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:30:16.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T09:30:16.24Z"
             }
           ]
         }
