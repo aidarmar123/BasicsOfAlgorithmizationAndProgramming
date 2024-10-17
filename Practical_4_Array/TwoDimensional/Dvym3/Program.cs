@@ -27,7 +27,7 @@ namespace Dvym3
                 Console.WriteLine();
                 arraySums[i] = sum;
             }
-            Console.WriteLine("Array sum: "+string.Join(" ", arraySums));
+            Console.WriteLine("Array sum: м "+string.Join(" ", arraySums));
             Console.WriteLine("Maximum "+arraySums.Max());
 
         }
